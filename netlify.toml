@@ -1,0 +1,8 @@
+[build]
+  publish = "unpackage/dist/build/h5"
+  command = ""
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

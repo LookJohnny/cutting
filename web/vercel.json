@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "board-cutting-calculator",
+  "builds": [
+    {
+      "src": "**",
+      "use": "@vercel/static"
+    }
+  ]
+}
