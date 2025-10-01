@@ -1,1 +1,21 @@
- 
+# Node modules
+node_modules/
+
+# Build outputs
+unpackage/dist/
+.hbuilderx/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
